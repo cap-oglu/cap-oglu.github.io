@@ -85,8 +85,8 @@ main {
 }
 #social-wrapper img {
   filter: invert() !important;
-  width: 25px;
-  height: 25px;
+  max-height: 25px; /* Ensures the image does not exceed 25px in height */
+  width: auto; /* Maintains the aspect ratio */
   margin: 0 0 0.3rem 0;
   transition: all 0.2s ease-in-out;
 }
