@@ -5,4 +5,4 @@ date: 2024-06-29
 categories: ["Hayat hikayesi", "Hobiler", "Felsefe"]
 ---
 
-Hayat zor, bu herkes tarafından bilinen bir gerçek. O halde hayatı insanlar için daha da zor getirmemeliyiz. Erdemli olmalıyız.
+Hayat zordur, bu herkes tarafından bilinen bir gerçektir. Dolayısıyla hayatı insanlar için daha da zorlaştırmamalıyız. Erdemli olmalıyız.
