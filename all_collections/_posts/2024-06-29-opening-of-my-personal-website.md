@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ahmet Ramazan Çapoğlu
+title: Hayata Karşı Yaklaşım
 date: 2024-06-29
 categories: ["Hayat hikayesi", "Hobiler", "Felsefe"]
 ---
